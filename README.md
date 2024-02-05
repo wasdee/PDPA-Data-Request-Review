@@ -11,7 +11,8 @@ review how corporates response to PDPA(Thailand's GDPR) data personal request
 
 ## Telco
 - [AIS](https://www.ais.th/)
-  - [5/2/2024] DPO email failed 
+  - [5/2/2024] DPO email failed
+  - ![email fail](Reqs/assets/Screenshot%202024-02-05%20103915.png)
 ## Bank
 
 ## Shopping
